@@ -7,7 +7,7 @@
         "Changelog": "Dalamud API 9",
         "InternalName": "XIVComboPlugin",
         "AssemblyVersion": "1.0.0",
-        "RepoUrl": "https://github.com/GioPanaro/XIVComboPlugin",
+        "RepoUrl": "https://github.com/AltinaXIV/XIVComboPlugin",
         "ApplicableVersion": "any",
         "CategoryTags": [
             "other"
@@ -17,11 +17,11 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/GioPanaro/XIVComboPlugin/archive/refs/tags/v1.0.0.zip",
+        "DownloadLinkInstall": "https://github.com/AltinaXIV/XIVComboPlugin/archive/refs/tags/v1.0.0.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/GioPanaro/XIVComboPlugin/archive/refs/tags/v1.0.0.zip",
-        "DownloadLinkUpdate": "https://github.com/GioPanaro/XIVComboPlugin/archive/refs/tags/v1.0.0.zipp",
+        "DownloadLinkTesting": "https://github.com/AltinaXIV/XIVComboPlugin/archive/refs/tags/v1.0.0.zip",
+        "DownloadLinkUpdate": "https://github.com/AltinaXIV/XIVComboPlugin/archive/refs/tags/v1.0.0.zipp",
         "LastUpdate": "1"
     }
   }
