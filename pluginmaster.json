@@ -1,26 +1,23 @@
 [
-    {
-        "Author": "Altina",
-        "Name": "XIVComboPlugin",
-        "Punchline": "PVP Combos for PVE",
-        "Description": "Sets actions to their combo and saves hotbar space",
-        "Changelog": "Dalamud API 9",
-        "InternalName": "XIVComboPlugin",
-        "AssemblyVersion": "1.0.0",
-        "RepoUrl": "https://github.com/AltinaXIV/XIVComboPlugin",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "other"
-        ],
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/AltinaXIV/XIVComboPlugin/releases/download/v1.0.0/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/AltinaXIV/XIVComboPlugin/releases/download/v1.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/AltinaXIV/XIVComboPlugin/releases/download/v1.0.0/latest.zip",
-        "LastUpdate": "1"
-    }
+{
+  "Author": "Altina",
+  "Name": "XIV Combo",
+  "InternalName": "XIVCombo",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/AltinaXIV/XivComboPlugin",
+  "DownloadLinkInstall": "https://github.com/AltinaXIV/XIVComboPlugin/releases/download/v1.0.0/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/AltinaXIV/XIVComboPlugin/releases/download/v1.0.0/latest.zip",
+  "Tags": [
+    "Combo"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "PvP, but in PvE!",
+  "AcceptsFeedback": true
+}
 ]
