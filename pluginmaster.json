@@ -17,11 +17,11 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/AltinaXIV/XIVComboPlugin/archive/refs/tags/v1.0.0.zip",
+        "DownloadLinkInstall": "https://github.com/AltinaXIV/XIVComboPlugin/releases/download/v1.0.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/AltinaXIV/XIVComboPlugin/archive/refs/tags/v1.0.0.zip",
-        "DownloadLinkUpdate": "https://github.com/AltinaXIV/XIVComboPlugin/archive/refs/tags/v1.0.0.zipp",
+        "DownloadLinkTesting": "https://github.com/AltinaXIV/XIVComboPlugin/releases/download/v1.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/AltinaXIV/XIVComboPlugin/releases/download/v1.0.0/latest.zip",
         "LastUpdate": "1"
     }
 ]
