@@ -1,7 +1,7 @@
 [
     {
         "Author": "Altina",
-        "Name": "XIVComboPlugins",
+        "Name": "XIVComboPlugin",
         "Punchline": "PVP Combos for PVE",
         "Description": "Sets actions to their combo and saves hotbar space",
         "Changelog": "Dalamud API 9",
@@ -12,7 +12,6 @@
         "CategoryTags": [
             "other"
         ],
-        "DalamudApiLevel": 9,
         "IconUrl": "",
         "ImageUrls": [
             ""
